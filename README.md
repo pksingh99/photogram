@@ -1,4 +1,4 @@
-# Photogram [![CircleCI](https://circleci.com/gh/tscript3r/photogram.svg?style=svg)](https://circleci.com/gh/tscript3r/photogram)
+# Photogram [![CircleCI](https://circleci.com/gh/pksingh99/photogram.svg?style=svg)](https://circleci.com/gh/pksingh99/photogram)
 
 ### Table of Contents
 *    [General info](#general-info)
